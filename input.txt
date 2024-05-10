@@ -1,0 +1,6 @@
+{"location": "foo"}
+{"location": "foo.com"}
+{"location": "bar.com"}
+{"location": "httpbar.com"}
+{"location": "http://bar.com"}
+{"location": "https://bar.com"}
